@@ -36,6 +36,14 @@
                         <mainClass>hw3BlindSearch.MyMazes</mainClass>
                         <name>MyMazes</name>
                     </program>
+                    <program>
+                        <mainClass>hw5Game.Game</mainClass>
+                        <name>TicTacToe</name>
+                    </program>
+                    <program>
+                        <mainClass>hw6QueenProblem.queen8_orig</mainClass>
+                        <name>Queen8</name>
+                    </program>
                 </programs>
             </configuration>
             <executions>
